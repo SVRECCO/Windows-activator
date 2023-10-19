@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://icons8.com/icon/duuXIceGiWPi/no-windows-10" alt="Windows Logo">
+  <img src="https://techstarwebsolutions.com/Icons/windows10.png" alt="Windows Logo">
 </p>
 
 # <div align="center">Windows Activation Program</div>
