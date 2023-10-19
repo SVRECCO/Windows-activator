@@ -1,4 +1,4 @@
-# Windows Activation Program
+# <div align="center">Windows Activation Program</div>
 
 The Windows Activation Program is a user-friendly tool designed to simplify the activation process for Microsoft Windows operating systems. It streamlines the activation process, enabling users to remove the watermark and activate their Windows OS efficiently.
 
